@@ -1,0 +1,11 @@
+C:\Users\55819\source\repos\ExerEnumeraçaoComposicao\ExerEnumeraçaoComposicao\bin\Debug\netcoreapp2.1\ExerEnumeraçaoComposicao.deps.json
+C:\Users\55819\source\repos\ExerEnumeraçaoComposicao\ExerEnumeraçaoComposicao\bin\Debug\netcoreapp2.1\ExerEnumeraçaoComposicao.runtimeconfig.json
+C:\Users\55819\source\repos\ExerEnumeraçaoComposicao\ExerEnumeraçaoComposicao\bin\Debug\netcoreapp2.1\ExerEnumeraçaoComposicao.runtimeconfig.dev.json
+C:\Users\55819\source\repos\ExerEnumeraçaoComposicao\ExerEnumeraçaoComposicao\bin\Debug\netcoreapp2.1\ExerEnumeraçaoComposicao.dll
+C:\Users\55819\source\repos\ExerEnumeraçaoComposicao\ExerEnumeraçaoComposicao\bin\Debug\netcoreapp2.1\ExerEnumeraçaoComposicao.pdb
+C:\Users\55819\source\repos\ExerEnumeraçaoComposicao\ExerEnumeraçaoComposicao\obj\Debug\netcoreapp2.1\ExerEnumeraçaoComposicao.csprojAssemblyReference.cache
+C:\Users\55819\source\repos\ExerEnumeraçaoComposicao\ExerEnumeraçaoComposicao\obj\Debug\netcoreapp2.1\ExerEnumeraçaoComposicao.csproj.CoreCompileInputs.cache
+C:\Users\55819\source\repos\ExerEnumeraçaoComposicao\ExerEnumeraçaoComposicao\obj\Debug\netcoreapp2.1\ExerEnumeraçaoComposicao.AssemblyInfoInputs.cache
+C:\Users\55819\source\repos\ExerEnumeraçaoComposicao\ExerEnumeraçaoComposicao\obj\Debug\netcoreapp2.1\ExerEnumeraçaoComposicao.AssemblyInfo.cs
+C:\Users\55819\source\repos\ExerEnumeraçaoComposicao\ExerEnumeraçaoComposicao\obj\Debug\netcoreapp2.1\ExerEnumeraçaoComposicao.dll
+C:\Users\55819\source\repos\ExerEnumeraçaoComposicao\ExerEnumeraçaoComposicao\obj\Debug\netcoreapp2.1\ExerEnumeraçaoComposicao.pdb
